@@ -161,3 +161,4 @@
 - Verify cryptographic signature status for repository commits
 - Add signature verification mock suites for test coverage
 - Implement byte sniffing for binary asset classification
+- Add sample fixtures for image and compiled binary checks
