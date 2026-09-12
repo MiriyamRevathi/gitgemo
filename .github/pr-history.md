@@ -163,3 +163,4 @@
 - Implement byte sniffing for binary asset classification
 - Add sample fixtures for image and compiled binary checks
 - Aggregate daily commit frequencies into calendar heatmaps
+- Verify timezone normalization for activity aggregates
