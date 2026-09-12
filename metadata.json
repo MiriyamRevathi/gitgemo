@@ -1,0 +1,6 @@
+{
+  "name": "GitGenome",
+  "description": "See how software evolves. An interactive visual genome and time machine for software repositories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
