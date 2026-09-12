@@ -180,3 +180,5 @@
 - Add test validation for single maintainer risk flags
 - Identify revert commits via automated pattern matching
 - Add test fixtures for multi-commit revert histories
+- Parse CI build runtime statistics from workflow logs
+- Validate build duration aggregates across pipelines
