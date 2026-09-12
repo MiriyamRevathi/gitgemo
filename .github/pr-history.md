@@ -26,3 +26,5 @@
 - Review completed for this repository improvement.
 - Refine architecture guidance
 - Review completed for this repository improvement.
+- Update workspace workflow
+- Review completed for this repository improvement.
