@@ -76,3 +76,5 @@
 - Review completed for this repository improvement.
 - Update contribution notes
 - Review completed for this repository improvement.
+- Improve project information
+- Review completed for this repository improvement.
