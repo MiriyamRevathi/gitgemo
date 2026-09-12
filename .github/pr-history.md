@@ -165,3 +165,4 @@
 - Aggregate daily commit frequencies into calendar heatmaps
 - Verify timezone normalization for activity aggregates
 - Calculate concurrent work in progress branch limits
+- Verify WIP warning thresholds for rapid development cycles
