@@ -133,3 +133,4 @@
 - Detect inactive branches beyond configured age thresholds
 - Add test scenarios for protected branch exclusions
 - Compute statistical release cadence distribution
+- Verify cadence output formatting across versions
