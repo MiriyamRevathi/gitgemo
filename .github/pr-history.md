@@ -172,3 +172,4 @@
 - Add lint test cases for valid and invalid branch names
 - Correlate high file churn with revision frequencies
 - Verify risk score weights against historical datasets
+- Stream raw git log chunks to prevent memory spikes
