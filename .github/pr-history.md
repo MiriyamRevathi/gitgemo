@@ -167,3 +167,4 @@
 - Calculate concurrent work in progress branch limits
 - Verify WIP warning thresholds for rapid development cycles
 - Inspect Git submodule pointer commits and status
+- Add test cases for nested submodule path resolutions
