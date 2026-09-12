@@ -119,3 +119,4 @@
 - Refactor change coupling co-change detector
 - Add unit verification for coupling thresholds
 - Add normalized churn metrics to visualization feed
+- Format churn rate summary reports
