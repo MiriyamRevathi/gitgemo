@@ -1,0 +1,7 @@
+# Standardize repository PR and issue classification labels
+
+Organize pull requests and issues with consistent functional categories.
+
+
+## Verification
+- Verify label color contrast and taxonomy categorization
