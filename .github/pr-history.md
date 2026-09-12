@@ -146,3 +146,5 @@
 - Verify composite score normalization boundaries
 - Parse semantic version tags with prerelease suffixes
 - Add test assertions for semver range sorting
+- Implement rolling hash code duplication scanner
+- Test clone detection across multi-language files
