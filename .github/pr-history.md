@@ -125,3 +125,4 @@
 - Implement git blame line ownership heuristic
 - Verify line attribution edge cases
 - Generate unified executive summaries for repository health
+- Add schema checks for summary payload
