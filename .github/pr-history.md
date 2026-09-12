@@ -17,3 +17,4 @@
 - Update contribution guidance
 - Review completed for Update contribution guidance
 - Improve project organization
+- Review completed for Improve project organization
