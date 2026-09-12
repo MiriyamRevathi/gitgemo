@@ -128,3 +128,5 @@
 - Add schema checks for summary payload
 - Debounce repository file system notifications
 - Add debounce timing assertions
+- Track turnaround cycle time for repository pull requests
+- Validate cycle time calculations across milestones
