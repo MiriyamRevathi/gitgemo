@@ -28,3 +28,5 @@
 - Review completed for this repository improvement.
 - Update workspace workflow
 - Review completed for this repository improvement.
+- Improve project maintenance
+- Review completed for this repository improvement.
