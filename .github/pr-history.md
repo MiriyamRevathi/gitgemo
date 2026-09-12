@@ -109,3 +109,4 @@
 - Implement cyclomatic complexity analyzer
 - Add test fixtures for complexity inspection
 - Refactor dependency resolution algorithm
+- Add regression tests for circular references
