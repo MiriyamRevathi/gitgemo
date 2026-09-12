@@ -80,3 +80,5 @@
 - Review completed for this repository improvement.
 - Refine repository workflow
 - Review completed for this repository improvement.
+- Update workspace documentation
+- Review completed for this repository improvement.
