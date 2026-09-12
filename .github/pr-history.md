@@ -175,3 +175,4 @@
 - Stream raw git log chunks to prevent memory spikes
 - Add buffer stream throughput regression tests
 - Calculate bug fix commit ratios per thousand lines of code
+- Verify defect density formula across sample revisions
