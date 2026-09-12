@@ -144,3 +144,4 @@
 - Validate violation alerts for cross-module imports
 - Calibrate repository composite health index formula
 - Verify composite score normalization boundaries
+- Parse semantic version tags with prerelease suffixes
