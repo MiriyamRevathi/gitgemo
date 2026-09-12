@@ -137,3 +137,4 @@
 - Analyze security posture configuration rules
 - Add diagnostic mock fixtures for audit reports
 - Implement overlapping file patch conflict predictor
+- Verify overlapping hunk prediction accuracy
