@@ -60,3 +60,4 @@
 - Review completed for this repository improvement.
 - Improve development guidance
 - Review completed for this repository improvement.
+- Refine contribution information
