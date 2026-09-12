@@ -62,3 +62,4 @@
 - Review completed for this repository improvement.
 - Refine contribution information
 - Review completed for this repository improvement.
+- Update repository details
