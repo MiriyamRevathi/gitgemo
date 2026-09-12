@@ -160,3 +160,4 @@
 - Ensure accurate exclusions for vendored third party assets
 - Verify cryptographic signature status for repository commits
 - Add signature verification mock suites for test coverage
+- Implement byte sniffing for binary asset classification
