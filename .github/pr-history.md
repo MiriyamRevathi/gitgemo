@@ -64,3 +64,5 @@
 - Review completed for this repository improvement.
 - Update repository details
 - Review completed for this repository improvement.
+- Improve workspace organization
+- Review completed for this repository improvement.
