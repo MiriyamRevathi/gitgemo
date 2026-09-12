@@ -177,3 +177,4 @@
 - Calculate bug fix commit ratios per thousand lines of code
 - Verify defect density formula across sample revisions
 - Assess bus factor and knowledge concentration risks
+- Add test validation for single maintainer risk flags
