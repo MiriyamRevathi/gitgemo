@@ -6,3 +6,5 @@
 - Review completed for Update repository guidance
 - Improve workspace notes
 - Review completed for Improve workspace notes
+- Refine development guidance
+- Review completed for Refine development guidance
