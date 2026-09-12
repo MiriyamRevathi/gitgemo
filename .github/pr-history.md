@@ -86,3 +86,5 @@
 - Review completed for this repository improvement.
 - Refine repository guidance
 - Review completed for this repository improvement.
+- Update project organization
+- Review completed for this repository improvement.
