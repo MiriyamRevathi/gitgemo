@@ -16,3 +16,4 @@
 - Review completed for Refine repository notes
 - Update contribution guidance
 - Review completed for Update contribution guidance
+- Improve project organization
