@@ -185,3 +185,4 @@
 - Calculate exponential recency decay for modified files
 - Verify recency decay curve values over time horizons
 - Index exported TypeScript interface and type symbols
+- Validate lookup speed for cross-file type references
