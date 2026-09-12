@@ -82,3 +82,4 @@
 - Review completed for this repository improvement.
 - Update workspace documentation
 - Review completed for this repository improvement.
+- Improve development notes
