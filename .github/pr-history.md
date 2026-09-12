@@ -101,3 +101,4 @@
 - Refactor repository metric collector
 - Verify metric calculation benchmarks
 - Enhance AST tokenization for complex syntax
+- Add parser unit tests for edge cases
