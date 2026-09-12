@@ -156,3 +156,4 @@
 - Verify author impact score stability across historical intervals
 - Add structured JSON schema export for repository diagnostics
 - Validate export schemas against validation specifications
+- Categorize repository byte counts by language extensions
