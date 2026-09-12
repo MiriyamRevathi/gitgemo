@@ -104,3 +104,5 @@
 - Add parser unit tests for edge cases
 - Optimize Myers diff algorithm implementation
 - Validate diff performance on large repositories
+- Refine hotspot detection scoring weights
+- Verify hotspot calculation against benchmark logs
