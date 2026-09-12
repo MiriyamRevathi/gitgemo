@@ -50,3 +50,4 @@
 - Review completed for this repository improvement.
 - Refine repository documentation
 - Review completed for this repository improvement.
+- Update workspace information
