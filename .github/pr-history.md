@@ -168,3 +168,5 @@
 - Verify WIP warning thresholds for rapid development cycles
 - Inspect Git submodule pointer commits and status
 - Add test cases for nested submodule path resolutions
+- Enforce regex patterns for standard team branch conventions
+- Add lint test cases for valid and invalid branch names
