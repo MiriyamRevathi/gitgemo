@@ -179,3 +179,4 @@
 - Assess bus factor and knowledge concentration risks
 - Add test validation for single maintainer risk flags
 - Identify revert commits via automated pattern matching
+- Add test fixtures for multi-commit revert histories
