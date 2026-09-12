@@ -10,3 +10,5 @@
 - Review completed for Refine development guidance
 - Update project structure notes
 - Review completed for Update project structure notes
+- Improve maintenance guidance
+- Review completed for Improve maintenance guidance
