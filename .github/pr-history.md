@@ -117,3 +117,4 @@
 - Implement LRU cache for parsed Git tree objects
 - Benchmark memory consumption under heavy cache load
 - Refactor change coupling co-change detector
+- Add unit verification for coupling thresholds
