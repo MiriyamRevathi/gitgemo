@@ -14,3 +14,5 @@
 - Review completed for Improve maintenance guidance
 - Refine repository notes
 - Review completed for Refine repository notes
+- Update contribution guidance
+- Review completed for Update contribution guidance
