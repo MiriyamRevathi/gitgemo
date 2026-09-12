@@ -74,3 +74,5 @@
 - Review completed for this repository improvement.
 - Refine development documentation
 - Review completed for this repository improvement.
+- Update contribution notes
+- Review completed for this repository improvement.
