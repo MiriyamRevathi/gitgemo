@@ -12,3 +12,5 @@
 - Review completed for Update project structure notes
 - Improve maintenance guidance
 - Review completed for Improve maintenance guidance
+- Refine repository notes
+- Review completed for Refine repository notes
