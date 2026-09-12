@@ -18,3 +18,5 @@
 - Review completed for Update contribution guidance
 - Improve project organization
 - Review completed for Improve project organization
+- Refine workspace documentation
+- Review completed for Refine workspace documentation
