@@ -8,6 +8,8 @@
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-4.1-38bdf8.svg)](https://tailwindcss.com/)
 [![Production LOC](https://img.shields.io/badge/Production%20LOC-600K%2B-emerald.svg)](./LOC-VERIFICATION.md)
 
+
+
 ---
 
 ## Overview
@@ -35,10 +37,14 @@ Modern software engineering tools offer fine-grained file diffs and commit histo
 - **Pattern Shift Detection**: Detects and logs macro-architectural evolutions (e.g., *Embedded Prototype* ➔ *Clustered Core* ➔ *LSM Modular Engine* ➔ *Distributed Engine*).
 - **Module Health & Churn**: Inspect individual subsystem responsibilities and file distributions across eras.
 
+
+
 ###  Software Supply Chain & Dependency Tracking
 - **Dependency Lifecycle**: Track when packages were introduced, upgraded, or deprecated across the repository lifecycle.
 - **Categorization**: Classify dependencies by direct vs. indirect and production vs. development.
 - **Module Utilization**: See exactly which internal architectural modules depend on each external library.
+
+
 
 ###  Contributor Dynamics & Code Ownership
 - **Contribution Analytics**: Break down commit share, lines added, lines deleted, and files touched per contributor.
@@ -60,9 +66,16 @@ Modern software engineering tools offer fine-grained file diffs and commit histo
 
 ---
 
+
+
 ## Deep Capability Engine (600,000+ Production LOC)
 
 GitGenome features an enterprise-scale static and temporal capability engine located in `src/features/capabilities/`, containing **1,000 capability modules** encompassing over **600,000 lines of production TypeScript**:
+
+
+
+
+
 
 | Capability Domain | Description | Modules |
 | :--- | :--- | :--- |
@@ -78,10 +91,17 @@ GitGenome features an enterprise-scale static and temporal capability engine loc
 | **Release Intelligence**| Release cadence stability, changelog categorization, and deployment readiness | 50 modules |
 | *...and more* | Comprehensive static analysis catalog under `src/features/capabilities/` | **1,000 total** |
 
+
+
+
+
 Verify the capability LOC at any time using:
 ```bash
 node verify-loc.mjs
 ```
+
+
+
 
 ---
 
@@ -102,13 +122,11 @@ GitGenome provides three flexible ways to analyze a repository:
 
 ## Tech Stack
 
-- **Framework**: [React 19](https://react.dev/)
-- **Build Tool**: [Vite 6](https://vitejs.dev/)
-- **Language**: [TypeScript 5.8](https://www.typescriptlang.org/)
-- **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
-- **Icons**: [Lucide React](https://lucide.dev/)
-- **Animation & Physics**: Custom Force-Directed Simulation & [Motion](https://motion.dev/)
-- **AI Integration**: [@google/genai](https://www.npmjs.com/package/@google/genai) SDK
+
+
+
+
+
 
 ---
 
@@ -133,6 +151,8 @@ GitGenome provides three flexible ways to analyze a repository:
    ```
    > All core dependencies and testing frameworks are specified in [`package.json`](./package.json) and locked with exact dependency resolution trees in [`package-lock.json`](./package-lock.json).
 
+
+
 ### Development Server
 
 Start the local Vite development server:
@@ -140,6 +160,8 @@ Start the local Vite development server:
 npm run dev
 ```
 Open your browser and navigate to `http://localhost:3000`.
+
+
 
 ### Production Build
 
@@ -151,6 +173,9 @@ Preview the production build locally:
 ```bash
 npm run preview
 ```
+
+
+
 
 ### Running Tests & Code Coverage
 
@@ -234,5 +259,6 @@ GitGenome-600K-LOC/
 ## License
 
 This project is licensed under the MIT License.
-#   g i t g e m o  
+#   g i t g e m o 
+ 
  
