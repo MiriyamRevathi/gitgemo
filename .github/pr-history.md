@@ -155,3 +155,4 @@
 - Refine author impact calculation with net addition decay
 - Verify author impact score stability across historical intervals
 - Add structured JSON schema export for repository diagnostics
+- Validate export schemas against validation specifications
