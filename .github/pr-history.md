@@ -152,3 +152,4 @@
 - Verify graph rendering bounds for deep histories
 - Calculate Shannon entropy for repository commit distributions
 - Add unit tests for entropy calculation math
+- Refine author impact calculation with net addition decay
