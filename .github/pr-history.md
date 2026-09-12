@@ -154,3 +154,4 @@
 - Add unit tests for entropy calculation math
 - Refine author impact calculation with net addition decay
 - Verify author impact score stability across historical intervals
+- Add structured JSON schema export for repository diagnostics
