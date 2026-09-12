@@ -123,3 +123,4 @@
 - Extract structured metadata from commit descriptions
 - Add test suites for conventional commit parsing
 - Implement git blame line ownership heuristic
+- Verify line attribution edge cases
