@@ -319,13 +319,5 @@ This project is provided under the license included in the repository.
 
 ---
 
-## Author
-
-**Miriyam Revathi**
-
-GitHub:
-https://github.com/MiriyamRevathi
-
----
 
 If you find GitGenome useful, consider giving the repository a star.
