@@ -176,3 +176,4 @@
 - Add buffer stream throughput regression tests
 - Calculate bug fix commit ratios per thousand lines of code
 - Verify defect density formula across sample revisions
+- Assess bus factor and knowledge concentration risks
