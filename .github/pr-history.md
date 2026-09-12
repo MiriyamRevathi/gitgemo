@@ -4,3 +4,5 @@
 - Review completed for Refine project documentation
 - Update repository guidance
 - Review completed for Update repository guidance
+- Improve workspace notes
+- Review completed for Improve workspace notes
