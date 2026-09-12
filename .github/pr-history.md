@@ -116,3 +116,4 @@
 - Add boundary validation for multi-branch graphs
 - Implement LRU cache for parsed Git tree objects
 - Benchmark memory consumption under heavy cache load
+- Refactor change coupling co-change detector
