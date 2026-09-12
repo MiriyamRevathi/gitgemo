@@ -134,3 +134,5 @@
 - Add test scenarios for protected branch exclusions
 - Compute statistical release cadence distribution
 - Verify cadence output formatting across versions
+- Analyze security posture configuration rules
+- Add diagnostic mock fixtures for audit reports
