@@ -1,2 +1,3 @@
 - Improve repository workflow
 - Review completed for Improve repository workflow
+- Refine project documentation
