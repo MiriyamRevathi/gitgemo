@@ -122,3 +122,4 @@
 - Format churn rate summary reports
 - Extract structured metadata from commit descriptions
 - Add test suites for conventional commit parsing
+- Implement git blame line ownership heuristic
