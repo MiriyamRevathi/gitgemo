@@ -142,3 +142,5 @@
 - Measure indexing throughput improvements
 - Enforce architectural module boundary constraints
 - Validate violation alerts for cross-module imports
+- Calibrate repository composite health index formula
+- Verify composite score normalization boundaries
