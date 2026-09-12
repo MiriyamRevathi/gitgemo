@@ -115,3 +115,4 @@
 - Improve branch divergence calculation logic
 - Add boundary validation for multi-branch graphs
 - Implement LRU cache for parsed Git tree objects
+- Benchmark memory consumption under heavy cache load
