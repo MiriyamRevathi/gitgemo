@@ -139,3 +139,4 @@
 - Implement overlapping file patch conflict predictor
 - Verify overlapping hunk prediction accuracy
 - Parallelize batch indexing for repository file trees
+- Measure indexing throughput improvements
