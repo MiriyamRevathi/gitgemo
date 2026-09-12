@@ -40,3 +40,4 @@
 - Review completed for this repository improvement.
 - Update project information
 - Review completed for this repository improvement.
+- Improve repository organization
