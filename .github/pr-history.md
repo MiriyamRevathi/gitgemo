@@ -108,3 +108,4 @@
 - Verify hotspot calculation against benchmark logs
 - Implement cyclomatic complexity analyzer
 - Add test fixtures for complexity inspection
+- Refactor dependency resolution algorithm
